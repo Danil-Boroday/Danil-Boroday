@@ -74,12 +74,9 @@
   </tr>
   <tr align="center">
     <td>Cypress</td>
-    <td>Selenium</td>
     <td>PyTest</td>
     <td>GitLab</td>
-    <td>GitHub</td>
     <td>VS Code</td>
-    <td>Python</td>
   </tr>
 </table>
 
