@@ -78,7 +78,7 @@
     <td>PyTest</td>
     <td>GitLab</td>
     <td>VS Code</td>
-    <td>VS sublime</td>
+    <td>Sublime</td>
   </tr>
 </table>
 
