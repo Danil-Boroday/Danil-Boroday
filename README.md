@@ -49,8 +49,6 @@
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_http.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_html.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_css3.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_javascript.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/c5db2d1f2c634faffcd09a45b59cd2e808641e38/assets/logo_php.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_firebase.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_androidstudio.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/ad25cbf701c5c4aa106236ac27655efedb9c61fc/assets/logo_charles.png" /></td>
@@ -60,8 +58,6 @@
     <td>HTTP</td>
     <td>HTML</td>
     <td>CSS</td>
-    <td>JavaScript</td>
-    <td>PHP</td>
     <td>Firebase</td>
     <td>Android Studio</td>
     <td>Charles</td>
