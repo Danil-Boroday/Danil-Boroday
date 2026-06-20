@@ -1,5 +1,13 @@
-## Привет！ 👋
-Меня зовут Даниил, я QA Engineer
+## Привет! Я Даниил 👋
+### Junior QA Engineer и я здесь для того чтобы строить карьеру в тестировании, а не "пробовать".
+
+:mag_right: Мой подход — проактивный: я ищу не только то, что сломано, но и то, что может сломаться.
+Для меня баг-репорт — это искусство. Я верю, что качественный отчет экономит время всей команды.
+
+
+:dart: Моя цель — стать высококлассным QA-специалистом, чей вклад напрямую влияет на безупречное состояние продукта и его успешное развитие на рынке.
+
+
 
 ## 📊 Статистика
 
@@ -9,7 +17,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Danil-Boroday)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
