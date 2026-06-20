@@ -85,14 +85,12 @@
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_metabase.png" /></td>
-    <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/147ed780957fe9e13878a49dae1836ca332d6de3/assets/logo_mysql.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_postgresql.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_dbeaver.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_mongodb.png" /></td>
   </tr>
   <tr align="center">
     <td>Metabase</td>
-    <td>MySQL</td>
     <td>PostgreSQL</td>
     <td>DBeaver</td>
     <td>Mongo DB</td>
