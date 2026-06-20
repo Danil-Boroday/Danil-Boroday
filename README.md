@@ -71,12 +71,14 @@
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_pytest.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_gitlab.png" /></td>
     <td><img width="48" src="https://github.com/belyakovko/belyakovko/blob/4a6018393c97357a2f9122f3695af94b5931d3b2/assets/logo_vscode.png" /></td>
+    <td><img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" /></td>
   </tr>
   <tr align="center">
     <td>Cypress</td>
     <td>PyTest</td>
     <td>GitLab</td>
     <td>VS Code</td>
+    <td>VS sublime</td>
   </tr>
 </table>
 
