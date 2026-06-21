@@ -140,6 +140,8 @@
 
 ## 🎒 Образование
 
+[<img src="certificate.pdf" width="280px" hspace="10px" alt="Сертификат">](https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotM94MhwnBX1lvkLR9gO51qVvYGoo__1EAlfR0U0rlnqE)
+
 
 <br>
 <br>
